@@ -1,0 +1,9 @@
+Add your name to this file. 
+
+Then:
+1. Stage it
+2. Commit it (with a message)
+3. Push it to your remote repo (on GitHub)
+4. Open a pull request to the upstream repository
+
+Erin

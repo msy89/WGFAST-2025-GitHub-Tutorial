@@ -1,5 +1,5 @@
 Add your name to this file. 
-
+Hi I'm Julie
 Then:
 1. Stage it
 2. Commit it (with a message)
